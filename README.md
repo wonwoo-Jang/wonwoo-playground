@@ -1,23 +1,89 @@
 # About Me
 
-Welcome to my personal README! Here, you'll find a bit about my interests! 🎶🎨
+내가 누구인지! 잘 알아보고/알려주고 싶은 마음에 만든 페이지. 혹 지나가는 행인이 보거든 이런 사람도 있구나~ 해주세요!
 
-## 🎶 wonwoo's music chart!
+재밌게 봐주시면 저도 즐겁습니다!!
 
-### rock
-- **1. Dream on** - *Aerosmith*:.
-- **Song 2** - *Artist 2*: Perfect for unwinding after a long day.
-- **Song 3** - *Artist 3*: A classic that never gets old.
+## 🎨 관심사
+- **체스/장기**
 
-Whether it's pop, rock, or instrumental, music is a big part of my daily life. I love exploring new genres and discovering hidden gems.
+장기는 9단까지, 체스는 체스닷컴 기준 1850까지 찍어봤습니다.
 
-## 🎨 Hobbies
-- **Reading** 📚: From history to sci-fi, I enjoy immersing myself in different worlds and perspectives.
-- **Gaming** 🎮: A great way to relax and sometimes challenge myself. I enjoy both solo and multiplayer games.
-- **Hiking** 🏞️: Nature is my escape. Hiking lets me recharge and find peace away from the city.
+- **보드게임**
+
+야! 보드게임 하러 갈래?? -> 장원우를 집 밖으로 꺼내고 싶을 때 무조건 먹히는 치트키. 
+
+심리전 요구하는 게임(레지스탕스 아발론 같은 거!) 좋아합니다. 고등학교 기숙사에서 밤이 되면 마피아로 일어나곤 했습니다.
+
+- **탁구**
+
+군대에서 시작한 취미, 엄청 잘 치진 못하는데 기본적으로 스매쉬나 드라이브 칠 줄은 압니다.
+
+- **영화**
+
+어느 날 유튜브에 이동진 평론가 추천 영화가 나왔는데, 그런 거 보고 재밌어 보이면 냅다 봅니다.
+
+노인을 위한 나라는 없다<-이거 재밌게 봤습니다.
+
+- **노래**
+
+듣는 것, 부르는 것 다 좋아합니다. 특히 장르도 안가립니다(헤비메탈도 듣고 재즈도 듣고 클래식도 듣고 kpop도 듣고 다 듣습니다!).
+
+혼자해도 좋아하고 둘이 하면 더 좋아합니다.
+
+- **수다 떨기**
+
+대한민국에서 어떤 사람을 임의추출하면, 그 사람과 수다를 잘 떨 자신이 있습니다.
+
+수학, 과학, 역사, 정치, 철학, 경제 등등 다 좋아하고 어느 정도 얕게 압니다. 뮤지컬이나 미술은 잘 모르지만 보는 건 좋아합니다.
+
+다양한 사람들 만나서 다양한 이야기 듣고 생각해 보는 것 아주 좋아합니다.
+
+- **드라마**(new!)
+
+늙어감에 따른 감수성 증가로, 드디어 드라마가 공감가기 시작합니다(드디어!).
+
+미스터 션사인: 특수한 시대 상황으로부터 오는 특수한 상황들을 잘 이용한 드라마. 재밌습니다.
+
+나의 아저씨: 인생작. 누군가를 용서한다는 게 얼마나 멋진 일인지. 모두가 편안함에 이르길 바랍니다.
+
+또오해영: 인간의 감정을 소름돋게 표현한 드라마. 마음이 끌리는 건 내 마음대로 되지 않으니까.
+
+- **해외여행**(new!)
+
+일본을 2번(오사카, 도쿄) 다녀오고 나서 급 해외여행을 많이 다녀보고 싶다는 생각이 들었습니다. 25년 봄학기에 수업을 땡땡이치고 4일 정도 싱가포르로 훌쩍 떠나려고 합니다(소박한 버킷리스트!). 
   
-## ✨ Other Interests
-- **Learning Languages** 🌐: Exploring different languages has broadened my understanding of various cultures.
-- **Cooking** 🍲: Experimenting with new recipes is always fun, especially when sharing meals with friends and family.
+## ✨ 에피소드(살면서 나에게 새로운 순간들)
+- **자기 만족**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my [projects](https://github.com/myusername)!
+나: 여자들은 왜 화장을 하는 거야? 남자에게 잘보이려고?
+
+A: 아니, 자기 만족이지.
+
+나: ?? -> 이제는 이해가 됩니다. 헬스도 하고, 피부관리도 하고 하면서 점점 상태가 괜찮아지는 스스로가 대견하다는 생각이 들었습니다. 누군가 몰라줘도, 계속 할 것 같습니다.
+
+- **결혼**
+
+A: 결혼은 하고 싶어?
+
+나: 난 잘 모르겠어.
+
+A: 난 20살에 하고 싶어.
+
+나: 너무 이르지 않아?
+
+A: 빨리 사랑하는 사람 만나면, 더 오래 같이 있을 수 있잖아. -> 처음 들었을 때 말도 안된다고 생각했는데, 반박을 할 말이 안떠올랐습니다. 이후로 저도 빨리 결혼하고 싶습니다.
+
+- **감정 표현**
+
+A는 어릴 적 여행을 같이 다녔던 사람들 중에 만난 분입니다.
+
+A: 너 그 사람 좋아하지?
+
+나: 아니? 난 차라리 B가 좋아.
+
+A: 아 그래?
+
+이후 여행이 끝나고 A가 편지로 제 감정에 솔직했으면 좋겠다고 썼습니다. 진짜로 안 좋아했는데!
+
+그걸 떠나서 누군가 제가 제 감정을 솔직히 마주하지 못한다고 생각했나 봅니다. 그 일 이후로는 제가 느끼고 생각하는 것 대부분은 솔직하게 상대에게 말하려고 합니다(인간관계에서의 예의일까요?).
